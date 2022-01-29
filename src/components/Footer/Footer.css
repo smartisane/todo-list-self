@@ -1,0 +1,13 @@
+.footer {
+    border: 1px solid black;
+    padding: 2px;
+    overflow: auto;
+}
+
+#footer-left{
+    float: left;
+}
+
+#but-footer {
+    float: right;
+}
